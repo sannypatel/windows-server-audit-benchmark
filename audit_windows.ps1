@@ -1,7 +1,7 @@
 <#
 .SYNOPSIS
   The purpose of the script is to Audit Windows Server. You can change or update your test cases accordingly.
-  Please free to update the code if you have a better way to test below test cases. (I know you will have)
+  Please free to update the code if you have a better way to test below test cases.
 
 .OUTPUTS
   Log file stored in C:\temp\audit__log_<yyyyMMddHHmmss>.log and it will store audit output in C:\temp\Windows_Audit_Result.csv and open port output on C:\temp\Open_Ports_Result.csv. 
